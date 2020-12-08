@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my profile! Here you will find some of the repositories I do use to teach about different things, such as: containerization, nosql databases and distributed computing.
+
+Hope you enjoy it! 😄
+
 <!--
 **IraitzM/iraitzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
