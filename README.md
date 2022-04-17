@@ -4,6 +4,13 @@ Welcome to my profile! Here you will find some of the repositories I do use to t
 
 Hope you enjoy it! 😄
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+[![IraitzM's github stats](https://github-readme-stats.vercel.app/api?username=IraitzM&show_icons=true&hide_border=true)](https://github.com/IraitzM/)
+
+</details>
+
 <!--
 **IraitzM/iraitzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
