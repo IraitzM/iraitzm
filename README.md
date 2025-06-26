@@ -43,6 +43,15 @@ Hope you enjoy it! 😄
 
 </details>
 
+<details>
+  <summary>
+    :zap: GitRoll profile
+  </summary>
+
+  <a href="https://gitroll.io/profile/uwGN1OukX0kXHJN56vgaXX5xkeb23" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uwGN1OukX0kXHJN56vgaXX5xkeb23?theme=light" alt="GitRoll Profile Badge"/></a>
+  
+</details>
+
 <!--
 **IraitzM/iraitzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
